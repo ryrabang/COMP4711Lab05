@@ -32,9 +32,10 @@ input {
 }
 
 .search {
-    width: 75%;
+    width: 60%;
     font-size: 20px;
     float: left;
+    padding-left: 10px;
 }
 
 .artistForm {
